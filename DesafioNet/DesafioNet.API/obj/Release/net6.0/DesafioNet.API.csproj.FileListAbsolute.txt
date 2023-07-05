@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.API\obj\Release\net6.0\DesafioNet.API.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.API\obj\Release\net6.0\DesafioNet.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.API\obj\Release\net6.0\DesafioNet.API.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.API\obj\Release\net6.0\DesafioNet.API.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.API\obj\Release\net6.0\DesafioNet.API.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.API\obj\Release\net6.0\DesafioNet.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.API\obj\Release\net6.0\DesafioNet.API.MvcApplicationPartsAssemblyInfo.cache

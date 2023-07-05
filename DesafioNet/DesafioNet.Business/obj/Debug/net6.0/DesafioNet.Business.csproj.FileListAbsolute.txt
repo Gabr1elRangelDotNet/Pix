@@ -1,0 +1,5 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.Business\obj\Debug\net6.0\DesafioNet.Business.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.Business\obj\Debug\net6.0\DesafioNet.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.Business\obj\Debug\net6.0\DesafioNet.Business.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.Business\obj\Debug\net6.0\DesafioNet.Business.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\DesafioNet\DesafioNet.Business\obj\Debug\net6.0\DesafioNet.Business.csproj.CoreCompileInputs.cache
